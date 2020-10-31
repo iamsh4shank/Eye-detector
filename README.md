@@ -2,7 +2,7 @@
 Eye tracking using OpenCV, Python, Qt.
 
 ## Overview
-A **very** accurate eye-tracking software.
+
 ![What it looks like](https://i.imgur.com/GbWTe2U.gif)
 
 ## Features
