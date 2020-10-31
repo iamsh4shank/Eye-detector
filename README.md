@@ -3,7 +3,7 @@ Eye tracking using OpenCV, Python, Qt.
 
 ## Overview
 
-![What it looks like](https://i.imgur.com/GbWTe2U.gif)
+![What it looks like](https://i.imgur.com/tPi3Y1h.gif)
 
 ## Features
 - Cross-platform
