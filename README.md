@@ -1,9 +1,9 @@
 # Eye-Tracker
-Eye tracking using OpenCV, Python.
+Eye tracking using OpenCV, Python, Qt.
 
 ## Overview
 A **very** accurate eye-tracking software.
-![What it looks like](https://i.imgur.com/RsAKmzT.gif)
+![What it looks like](https://i.imgur.com/GbWTe2U.gif)
 
 ## Features
 - Cross-platform
